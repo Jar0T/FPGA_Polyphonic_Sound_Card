@@ -47,6 +47,12 @@
 *.cmd
 *.xmsgs
 *.ucf
+*.cgp
+*.txt
+*.pdf
+*.asy
+*.ncf
+*.sym
 
 # iMPACT generated files
 _impactbatch.log
